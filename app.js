@@ -78,7 +78,7 @@ if(quizIndex < quizLength) {
 }else {
   //クイズがもうなければ、スコアを表示
   window.alert('終了！　あなたのスコアは'+score+'/'+quizLength+'です！');
-  location.href = "/Users/masakiten/Documents/quiz/index.html";
+  location.href = "index.html";
 }
 }
 //それぞれのボタンの正誤判定
